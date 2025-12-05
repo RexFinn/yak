@@ -1,0 +1,17 @@
+type: grpc_request
+model: grpc_request
+id: gr_X2opwnebNf
+createdAt: 2025-12-05T07:01:58.595762
+updatedAt: 2025-12-05T07:02:18.765909
+workspaceId: wk_y4WiYxkLeX
+folderId: null
+authenticationType: null
+authentication: {}
+description: ''
+message: ''
+metadata: []
+method: null
+name: ''
+service: null
+sortPriority: -1764844034302.0
+url: 127.0.0.1:8080
