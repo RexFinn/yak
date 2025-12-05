@@ -2,7 +2,7 @@ type: http_request
 model: http_request
 id: rq_FirLHkKcCx
 createdAt: 2025-12-04T10:27:14.304261
-updatedAt: 2025-12-05T06:05:28.500817
+updatedAt: 2025-12-05T07:00:54.137032
 workspaceId: wk_y4WiYxkLeX
 folderId: null
 authentication:
@@ -16,6 +16,18 @@ headers:
   name: Content-Type
   value: application/x-www-form-urlencoded
   id: aAs4rxhQwu
+- enabled: true
+  name: '1'
+  value: '23'
+  id: 7IDVSaGs8w
+- enabled: true
+  name: ''
+  value: ''
+  id: A8I5vgKdWV
+- enabled: true
+  name: ''
+  value: ''
+  id: jb2cQvM9Ad
 method: POST
 name: ''
 sortPriority: -1764844034302.0
