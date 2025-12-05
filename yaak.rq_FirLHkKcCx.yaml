@@ -31,5 +31,5 @@ headers:
 method: POST
 name: ''
 sortPriority: -1764844034302.0
-url: ${[ name ]}https://www.baidu.com
+url: ${[ name ]}https://www.baidu.com/gitedit120515_03
 urlParameters: []
